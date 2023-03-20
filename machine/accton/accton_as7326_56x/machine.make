@@ -33,7 +33,7 @@ CONSOLE_DEV = 0
 LINUX_VERSION = 4.9
 LINUX_MINOR_VERSION = 95
 
-GCC_VERSION = 4.9.2
+GCC_VERSION = 8.3.0
 
 #-------------------------------------------------------------------------------
 #
